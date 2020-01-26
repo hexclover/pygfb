@@ -1,0 +1,83 @@
+{
+  "sans-serif-families": [
+    "Arial",
+    "Arimo",
+    "Cantarell",
+    "Carlito",
+    "Helvetica",
+    "Inter",
+    "Lato",
+    "Montserrat",
+    "Nunito",
+    "Raleway",
+    "Roboto",
+    "Roboto Condensed",
+    "TeX Gyre Adventor",
+    "TeX Gyre Heros",
+    "TeX Gyre Termes",
+    "TeX Gyre Termes Math",
+    "Ubuntu",
+    "Ubuntu Condensed"
+  ],
+  "serif-families": [
+    "Baskerville",
+    "Charis SIL",
+    "Charter",
+    "Crimson",
+    "CMU Concrete",
+    "Doulos SIL",
+    "Gentium",
+    "Georgia",
+    "Hind Kochi",
+    "Latin Modern Roman",
+    "Linguistics Pro",
+    "Minion Pro",
+    "Linux Libertine",
+    "TeX Gyre Pagella",
+    "TeX Gyre Pagella Math",
+    "TeX Gyre Schola",
+    "Utopia"
+  ],
+  "monospace-families": [
+    "Anonymous Pro",
+    "Courier New",
+    "Courier Prime",
+    "Cousine",
+    "Fira Code",
+    "Fira Mono",
+    "Inconsolata",
+    "Iosevka",
+    "TeX Gyre Cursor",
+    "monofur"
+  ],
+  "sans-serif-patterns": [
+    "[a-z- ]Sans",
+    "[a-z- ]Gothic",
+    "ゴシック",
+    "黑体",
+    "^Cormorant"
+  ],
+  "serif-patterns": [
+    "[a-z- ]Serif",
+    "Garamond$",
+    "Mincho$",
+    "Roman$",
+    "明朝",
+    "宋体",
+    "^Linux Libertine",
+    "^Sarasa"
+  ],
+  "monospace-patterns": [
+    "Typewriter",
+    "Mono"
+  ],
+  "sans-serif-substitutes": [
+    "sans-serif"
+  ],
+  "serif-substitutes": [
+    "serif"
+  ],
+  "monospace-substitutes": [
+    "monospace"
+  ]
+}
