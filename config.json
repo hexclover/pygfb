@@ -4,6 +4,7 @@
     "Arimo",
     "Cantarell",
     "Carlito",
+    "Gelasio",
     "Helvetica",
     "Inter",
     "Lato",
@@ -14,6 +15,7 @@
     "Roboto Condensed",
     "TeX Gyre Adventor",
     "TeX Gyre Heros",
+    "TeX Gyre Heros Cn",
     "TeX Gyre Termes",
     "TeX Gyre Termes Math",
     "Ubuntu",
@@ -31,8 +33,10 @@
     "Hind Kochi",
     "Latin Modern Roman",
     "Linguistics Pro",
+    "Lora",
     "Minion Pro",
     "Linux Libertine",
+    "TeX Gyre Bonum",
     "TeX Gyre Pagella",
     "TeX Gyre Pagella Math",
     "TeX Gyre Schola",
@@ -40,6 +44,7 @@
   ],
   "monospace-families": [
     "Anonymous Pro",
+    "Cascadia Code",
     "Courier New",
     "Courier Prime",
     "Cousine",
@@ -64,8 +69,7 @@
     "Roman$",
     "明朝",
     "宋体",
-    "^Linux Libertine",
-    "^Sarasa"
+    "^Linux Libertine"
   ],
   "monospace-patterns": [
     "Typewriter",
